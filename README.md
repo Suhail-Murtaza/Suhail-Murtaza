@@ -15,6 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Suhail-Murtaza&show_icons=true&locale=en&layout=compact" alt="Suhail-Murtaza" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Suhail-Murtaza&show_icons=true&locale=en" alt="Suhail-Murtaza" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Suhail-Murtaza&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" alt="Suhail-Murtaza" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suhail-Murtaza&" alt="Suhail-Murtaza" /></p>
