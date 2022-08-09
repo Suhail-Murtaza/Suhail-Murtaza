@@ -1,10 +1,10 @@
 <h3 align="center">A passionate software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suhail-Murtaza&label=Profile%20views&color=0e75b6&style=flat" alt="Suhail-Murtaza" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suhail-Murtaza&label=Profile%20views&color=0e75b6&style=flat" alt="Suhail-Murtaza" /> </p> -->
 
 - 💬 Ask me about **JavaScript, TypeScript, React, CSS3, Node, Databases**
 
-- 📫 How to reach me **suhailmurtaza910@gmail.com**
+- 📫 Reach me at **suhailmurtaza910@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
