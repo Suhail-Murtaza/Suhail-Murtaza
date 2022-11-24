@@ -1,14 +1,10 @@
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">Full-Stack Software Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suhail-Murtaza&label=Profile%20views&color=0e75b6&style=flat" alt="Suhail-Murtaza" /> </p> -->
 
-- 💬 Ask me about **React, Next.js, JavaScript, TypeScript**
+<!-- - 💬 Ask me about **React, Next.js, JavaScript, TypeScript** -->
 
 - 📫 Reach me at **suhailmurtaza910@gmail.com**
-
-<!-- <h3 align="left">Connect with me:</h3> -->
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
