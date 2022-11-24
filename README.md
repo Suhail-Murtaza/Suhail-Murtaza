@@ -8,7 +8,7 @@
 
 <h3 align="left">Profile Stats:</h3>
 
-<div align="center">
+<div align="left">
     <a href="https://github.com/Suhail-Murtaza">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suhail-Murtaza&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Suhail-Murtaza&theme=monokai" alt="Suhail-Murtaza" />
