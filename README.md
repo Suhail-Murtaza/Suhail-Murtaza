@@ -10,7 +10,7 @@
 
 <div align="left">
     <a href="https://github.com/Suhail-Murtaza">
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Suhail-Murtaza&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+<!--     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Suhail-Murtaza&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/> -->
         <img height="180em" width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=Suhail-Murtaza&theme=monokai" alt="Suhail-Murtaza" />
         </a>
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhail-Murtaza&layout=compact&langs_count=7&theme=monokai"/> -->
